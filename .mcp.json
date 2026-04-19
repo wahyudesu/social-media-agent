@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "apify": {
+      "url": "https://mcp.apify.com/?tools=actors,docs,experimental,runs,storage,adityalingwal/AI-brand-Visibility,nexgendata/ai-sentiment-analyzer",
+      "headers": {
+        "Authorization": "Bearer ${APIFY_API_TOKEN}"
+      }
+    }
+  }
+}
